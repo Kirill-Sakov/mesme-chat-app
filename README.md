@@ -3,11 +3,19 @@
 This is a code Realtime Chat Application. Used React on the front end, with NodeJS + Socket.io web socket library on the back end.
 
 The project was made by:
-* Alexey Gogin
+* Alexei Gogin
 * Sakov Kirill
 * Mikhail Fokin
 
 IVT-31 group ЯрГУ им. Демидова.
+
+# To watch online
+
+The easiest way to launch the program is to follow the link. The project is uploaded and works online:
+
+## https://laughing-kepler-d74af3.netlify.app/
+
+# For local 
 
 Setup:
 * npm install for both folders (client and server)
