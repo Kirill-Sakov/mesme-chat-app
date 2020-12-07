@@ -13,7 +13,7 @@ IVT-31 group ЯрГУ им. Демидова.
 
 The easiest way to launch the program is to follow the link. The project is uploaded and works online:
 
-## https://laughing-kepler-d74af3.netlify.app/
+## [Link](https://laughing-kepler-d74af3.netlify.app/)
 
 # For local 
 
