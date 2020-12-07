@@ -6,6 +6,7 @@ The project was made by:
 * Alexey Gogin
 * Sakov Kirill
 * Mikhail Fokin
+
 IVT-31 group ЯрГУ им. Демидова.
 
 Setup:
