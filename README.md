@@ -1,6 +1,6 @@
 # mesme-chat-app
 
-This is a code Realtime Chat Application. Use React on the front end, with NodeJS + Socket.io web socket library on the back end.
+This is a code Realtime Chat Application. Used React on the front end, with NodeJS + Socket.io web socket library on the back end.
 
 The project was made by:
 * Alexey Gogin
