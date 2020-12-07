@@ -16,7 +16,7 @@ const Chat = ( {location} ) => {
     const [users, setUsers] = useState('');
     const [message, setMessage] = useState('');
     const [messages, setMessages] = useState([]);
-    const ENDPOINT = 'https://react-mesme-chat.herokuapp.com/';
+    const ENDPOINT = 'http://localhost:5000/';
 
     useEffect(()=> {
         const { name, room } = queryString.parse(location.search);
