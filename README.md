@@ -18,5 +18,5 @@ The easiest way to launch the program is to follow the link. The project is uplo
 # For local 
 
 Setup:
-* npm install for both folders (client and server)
-* npm start for both folders (client and server)
+* 'npm install' for both folders (client and server)
+* 'npm start' for both folders (client and server)
