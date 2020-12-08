@@ -7,7 +7,7 @@ The project was made by:
 * Sakov Kirill
 * Mikhail Fokin
 
-IVT-31 group ЯрГУ им. Демидова.
+IVT-41 group ЯрГУ им. Демидова.
 
 # To watch online
 
