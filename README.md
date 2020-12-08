@@ -5,7 +5,6 @@ This is a code Realtime Chat Application. Used React on the front end, with Node
 The project was made by:
 * Alexei Gogin
 * Sakov Kirill
-* Mikhail Fokin
 
 IVT-41 group ЯрГУ им. Демидова.
 
